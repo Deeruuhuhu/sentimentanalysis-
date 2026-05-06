@@ -1,0 +1,36 @@
+[nltk_data] Downloading package movie_reviews to /root/nltk_data...
+[nltk_data]   Package movie_reviews is already up-to-date!
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to /root/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+[nltk_data] Downloading package punkt_tab to /root/nltk_data...
+[nltk_data]   Unzipping tokenizers/punkt_tab.zip.
+Dataset Loaded ✅
+                                              review sentiment
+0   " soldier " , by director paul anderson , is ...       neg
+1  those print and television ads trumpeting that...       pos
+2  damn those trailers . \nhad it not been for th...       pos
+3  note : some may consider portions of the follo...       pos
+4  edward burns tackles his third picture with no...       neg
+
+Preprocessing Done ✅
+
+Model Trained ✅
+
+Accuracy: 0.8025
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.81      0.80      0.80       204
+           1       0.79      0.81      0.80       196
+
+    accuracy                           0.80       400
+   macro avg       0.80      0.80      0.80       400
+weighted avg       0.80      0.80      0.80       400
+
+
+
+All Done 🚀
